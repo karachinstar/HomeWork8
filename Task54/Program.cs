@@ -8,7 +8,7 @@
 7 4 2 1
 9 5 3 2
 8 4 4 2
-*/
+*///
 
 Console.Write("Введите длину массива = ");
 int m = Convert.ToInt32(Console.ReadLine());
